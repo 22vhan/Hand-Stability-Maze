@@ -4,3 +4,7 @@ Rule:
 - Cannot touch wall
 - Must trace a line from beginning to end of maze
 
+Notes for extra things to add
+  -Timer?
+  -Doesn't have to be a stereotypical maze (think scary maze game)
+  -Textures (colors, sprites, powerups later)
