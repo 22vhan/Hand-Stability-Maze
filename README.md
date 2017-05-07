@@ -15,3 +15,13 @@ Class
   Create Triangle class that is similar to Square.h
   
 
+Tasks:
+  Jeff: timer
+        powerups
+        menu
+        any other things needed
+   
+  Vince: level creation w/ textures (I will help here as well)
+         mouse movements
+         collision detection 
+         
