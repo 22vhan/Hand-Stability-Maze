@@ -1,0 +1,14 @@
+How to draw the window and its objects
+-create a class for the little box that has to go through the maze
+-create a class for the black background
+-create a class for the colored background that the box has to go through
+-include collision when the mouse reaches the black background
+
+Others
+-add timer to top left
+-if takes too long to complete, give powerup that makes box size smaller or if finishes the level before a certain amount of time, give a powerup
+-harder levels will have some black squares/rectangles go into the colored path the mouse has to take
+-needs menu
+	can be made from clicking rectangles that are labeled and then 
+	leads them to the game
+
